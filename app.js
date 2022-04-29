@@ -7,11 +7,11 @@ const topMovie = [
   'Titanic',
   'Star Wars: The Force Awakens',
   'Avengers: Infinity War',
+  'Spider-Man: No Way Home',
   'Jurassic World',
   'Lion King',
   'The Avengers',
   'Furious 7',
-  'Frozen II'
 ];
 
 // Store listitems
