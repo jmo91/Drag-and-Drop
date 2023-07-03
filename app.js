@@ -4,6 +4,7 @@ const check = document.getElementById('check');
 const topMovie = [
   'Avatar',
   'Avengers: Endgame',
+  'Avatar: The Way of Water',
   'Titanic',
   'Star Wars: The Force Awakens',
   'Avengers: Infinity War',
@@ -11,7 +12,6 @@ const topMovie = [
   'Jurassic World',
   'Lion King',
   'The Avengers',
-  'Furious 7',
 ];
 
 // Store listitems
